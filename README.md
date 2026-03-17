@@ -94,7 +94,14 @@ This project solves these issues by providing an **interactive dashboard** that 
 
 ## 📊 Dashboard Preview
 
-![Hospital Emergency Room Dashboard](Dashboard.pdf)
+*  `Dashboard.pdf` (Contains Monthly, Consolidated & Patient Views)
+
+👉 Includes:
+
+* KPI Cards (Patients, Wait Time, Satisfaction)
+* Hourly Heatmaps
+* Department Analysis
+* Demographic Breakdown
 
 
 ---
