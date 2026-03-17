@@ -94,17 +94,8 @@ This project solves these issues by providing an **interactive dashboard** that 
 
 ## 📊 Dashboard Preview
 
-### 🔹 Monthly View
-
 ![Monthly Dashboard](Dashboard.pdf)
 
-### 🔹 Consolidated View
-
-*(Refer Page 2 of PDF)*
-
-### 🔹 Patient Details
-
-*(Refer Page 3 of PDF)*
 
 ---
 
