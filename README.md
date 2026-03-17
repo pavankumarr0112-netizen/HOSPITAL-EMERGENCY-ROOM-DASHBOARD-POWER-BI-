@@ -94,7 +94,7 @@ This project solves these issues by providing an **interactive dashboard** that 
 
 ## 📊 Dashboard Preview
 
-![Monthly Dashboard](Dashboard.pdf)
+![Hospital Emergency Room Dashboard](Dashboard.pdf)
 
 
 ---
